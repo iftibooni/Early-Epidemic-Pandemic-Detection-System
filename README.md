@@ -246,7 +246,7 @@ This project is provided as-is for educational and research purposes.
 
 ## 👨‍💻 Author
 
-Developed as part of AI for Engineers coursework in the Master's Program.
+Developed by Iftikhar Ul Hassan 
 
 ## 📞 Support
 
